@@ -1,10 +1,12 @@
 # Customer Call List Data Cleaning & Transformation with Python
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)  
-![Data](https://img.shields.io/badge/Data-Excel%2FCleaned-green?logo=microsoft-excel&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
+![Data](https://img.shields.io/badge/Data-Excel%2FCleaned-green?logo=microsoft-excel&logoColor=white)
 
 This repository contains a Python project for cleaning customer call data using pandas. It also includes a tutorial document covering essential pandas techniques for data wrangling and analysis.
+
+---
 
 ## 📂 Project Structure
 
@@ -76,5 +78,5 @@ The `Pandas_Tutorial.docx` file provides examples of common pandas operations, i
 Master’s Student in Information Science (Machine Learning)  
 The University of Arizona  
 
-[![GitHub](https://img.shields.io/badge/GitHub-panditpooja-black?logo=github)](https://github.com/panditpooja)  
+[![GitHub](https://img.shields.io/badge/GitHub-panditpooja-black?logo=github)](https://github.com/panditpooja)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pooja--pandit-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-pandit-177978135/)
